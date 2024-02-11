@@ -176,6 +176,14 @@
   "testset": "data/er_magellan/Dirty/DBLP-GoogleScholar/test.txt"
   },
   {
+    "name": "Structured/lido",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+    "trainset": "data/er_magellan/Structured/lido/train.txt",
+    "validset": "data/er_magellan/Structured/lido/valid.txt",
+    "testset": "data/er_magellan/Structured/lido/test.txt"
+  },
+  {
   "name": "Dirty/iTunes-Amazon",
   "task_type": "classification",
   "vocab": ["0", "1"],
